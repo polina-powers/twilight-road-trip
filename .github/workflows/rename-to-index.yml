@@ -14,5 +14,5 @@ jobs:
           git mv twilight-road-trip-forks-edition.html index.html
           git config user.name "polina-powers"
           git config user.email "polina-powers@users.noreply.github.com"
-          git commit -m "Add four booked stays: Harbor Inn, Adobe Resort, Cannery Pier, Lithia Springs"
+          git commit -m "Partner itinerary merge: restaurants, hotel costs, optional detours"
           git push
